@@ -4,24 +4,24 @@ PODS:
   - MASShortcut (2.4.0)
   - Nimble (9.0.1)
   - Quick (4.0.0)
-  - RxCocoa (5.1.1):
-    - RxRelay (~> 5)
-    - RxSwift (~> 5)
-  - RxRelay (5.1.1):
-    - RxSwift (~> 5)
-  - RxSwift (5.1.1)
-  - RxSwiftExt (5.2.0):
-    - RxSwiftExt/Core (= 5.2.0)
-    - RxSwiftExt/RxCocoa (= 5.2.0)
-  - RxSwiftExt/Core (5.2.0):
-    - RxSwift (~> 5.0)
-  - RxSwiftExt/RxCocoa (5.2.0):
-    - RxCocoa (~> 5.0)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - RxSwiftExt (6.0.1):
+    - RxSwiftExt/Core (= 6.0.1)
+    - RxSwiftExt/RxCocoa (= 6.0.1)
+  - RxSwiftExt/Core (6.0.1):
+    - RxSwift (~> 6.0)
+  - RxSwiftExt/RxCocoa (6.0.1):
+    - RxCocoa (~> 6.0)
     - RxSwiftExt/Core
   - Silica (0.3.6)
-  - SwiftLint (0.38.2)
-  - SwiftyBeaver (1.8.4)
-  - SwiftyJSON (5.0.0)
+  - SwiftLint (0.47.1)
+  - SwiftyBeaver (1.9.5)
+  - SwiftyJSON (5.0.1)
   - Yams (5.0.0)
 
 DEPENDENCIES:
@@ -76,16 +76,16 @@ SPEC CHECKSUMS:
   MASShortcut: d9e4909e878661cc42877cc9d6efbe638273ab57
   Nimble: 7bed62ffabd6dbfe05f5925cbc43722533248990
   Quick: 6473349e43b9271a8d43839d9ba1c442ed1b7ac4
-  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
-  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
-  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
-  RxSwiftExt: 4ca80336f43c28f11a2825cdd2fc61dd6c044697
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  RxSwiftExt: d61c4b9b06e0a448041b1c659e0f1b5c5a035afc
   Silica: ad202f871b26a24de7f1e39f28a98614b699f431
-  SwiftLint: 8f5d2f903e1c9bcbc832fd16771e80a263ac6cbb
-  SwiftyBeaver: f9a9aba96a6a6166e21682377804d728b0d20b95
-  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  SwiftLint: f80f1be7fa96d30e0aa68e58d45d4ea1ccaac519
+  SwiftyBeaver: 84069991dd5dca07d7069100985badaca7f0ce82
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
   Yams: b5c3e188ceeb8321a9830b1d0e791ccea9af3201
 
 PODFILE CHECKSUM: 063c8d2fa19c8dccb26b3a49afbb4c80ff987096
 
-COCOAPODS: 1.11.2
+COCOAPODS: 1.11.3
